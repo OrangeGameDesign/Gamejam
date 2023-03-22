@@ -1,0 +1,61 @@
+.DS_Store
+/Temp
+/obj
+/Library
+*.csproj
+*.unityproj
+*.sln
+Assets/Jemast
+Builds
+Assets/Jemast.meta
+/LocalCache
+LocalCache.meta
+tools/err
+tools/out
+
+# ===================================== #
+# TeamSpeak generated #
+# ===================================== #
+
+keypair_*
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+/*.csproj
+*.pidb
+*.suo
+/*.sln
+*.user
+*.unityproj
+*.booproj
+.vs/
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Assets/Plugins/x86_64/phonon.dll
+Assets/Plugins/x86_64/audioplugin_phonon.dll
+Assets/OVR/Plugins/1.14.1/Win64/OVRPlugin.dll
+Assets/OSPNative/x86_64/AudioPluginOculusSpatializer.dll
+Assets/unusedAssets.csv
+missingRefs.txt
+appSettings.json
+build_data.txt
+localSettings.json
+fmod_editor.log
+Assets/FMODStudioCache.asset
+fmod.log
+Assets/ResonanceAudio/Plugins/x86_64/audiopluginresonanceaudio.dll.meta
+Assets/ResonanceAudio/Plugins/x86_64/audiopluginresonanceaudio.dll
+OVRAssetBundles/
